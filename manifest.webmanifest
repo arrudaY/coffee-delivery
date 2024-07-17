@@ -1,0 +1,25 @@
+{
+  "name": "Coffee Delivery",
+  "short_name": "CoffeeDelivery",
+  "background_color": "#FFF8F2",
+  "theme_color": "#E9DDFF",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "categories": ["food", "shopping"],
+  "description": "Experimente a comodidade de receber seu café fresquinho, direto na sua porta.",
+
+  "icons": [
+    {
+      "src": "src/assets/Brand/favicon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "src/assets/Brand/favicon512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
